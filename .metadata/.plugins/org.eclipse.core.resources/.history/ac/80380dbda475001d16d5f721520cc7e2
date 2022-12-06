@@ -1,0 +1,14 @@
+package ClasesOperadores;
+
+public class Ejercicio6 {
+
+	public static void main(String[] args) {
+		
+		int ladoCuadrado = 8;
+		
+		System.out.println("El Área es "+(ladoCuadrado*ladoCuadrado)+" y el Perimero es "+(ladoCuadrado*4);
+		
+
+	}
+
+}

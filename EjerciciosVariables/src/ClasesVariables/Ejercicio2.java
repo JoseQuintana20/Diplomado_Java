@@ -1,0 +1,25 @@
+package ClasesVariables;
+
+public class Ejercicio2 {
+
+	public static void main(String args[]) {
+		
+		int a = 8;
+		char b = 'A';
+		String c = "Colombia";
+		String d = "A";
+		float e = 7458f;
+		int numero1;
+		String nombre_persona;
+		double edad;
+		String altura = "1.82";
+		double alturaReal = Double.parseDouble(altura);
+		int var = 96;
+		int f = 98;
+		int x = f;
+		String y = "25";
+		String g = y;
+
+	}
+
+}

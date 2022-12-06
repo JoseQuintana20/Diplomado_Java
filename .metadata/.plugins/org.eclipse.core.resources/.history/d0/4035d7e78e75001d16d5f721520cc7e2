@@ -1,0 +1,20 @@
+package ClasesVariables;
+
+public class Ejercicio1 {
+	
+	String nombre = "Jose";
+	float x = 2.21;
+	final float dolar = 4834.95;
+	float pi = 3.1415926;
+	Double euler = 2.718281828459045;
+
+	public static void main(String[] args) {
+		System.out.println(nombre);
+		System.out.println(x);
+		System.out.println(dolar);
+		System.out.println(pi);
+		System.out.println(euler);
+
+	}
+
+}

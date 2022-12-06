@@ -1,0 +1,15 @@
+package ClaseMath;
+
+public class Ejercicio4 {
+
+	public static void main(String[] args) {
+		double num1 = Math.random()*50, num2 = Math.random()*50;
+		System.out.println("Primer numero: "+num1);
+		System.out.println("Segundo numero: "+num2);
+		
+		num1 = Math.round(num1);
+		num2 = Math.floor(num2);
+		System.out.println("El numero mayor entre los dos es: "+Math.max(num1, num2));
+	}
+
+}
